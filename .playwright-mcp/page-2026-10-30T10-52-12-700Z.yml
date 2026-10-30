@@ -1,0 +1,304 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - generic [ref=f1e5]:
+      - link "Swiggy" [ref=f1e6] [cursor=pointer]:
+        - /url: "#"
+      - navigation [ref=f1e11]:
+        - link "Sign In" [ref=f1e17] [cursor=pointer]:
+          - /url: "#"
+    - generic [ref=f1e18]:
+      - heading "Order food & groceries. Discover best restaurants. Swiggy it!" [level=1] [ref=f1e19]
+      - generic [ref=f1e20]:
+        - textbox "Delivery location" [ref=f1e24]:
+          - /placeholder: Enter your delivery location
+        - textbox "Search for restaurant or food" [ref=f1e28]:
+          - /placeholder: Search for restaurant, item or more
+      - generic [ref=f1e31]:
+        - article [ref=f1e32]:
+          - heading "Food Delivery" [level=3] [ref=f1e33]
+          - paragraph [ref=f1e34]: From Restaurants
+          - paragraph [ref=f1e35]: UPTO 60% OFF
+          - img "Indian thali" [ref=f1e39]
+        - article [ref=f1e40]:
+          - heading "Instamart" [level=3] [ref=f1e41]
+          - paragraph [ref=f1e42]: Instant Grocery
+          - paragraph [ref=f1e43]: UPTO 60% OFF
+          - img "Groceries" [ref=f1e47]
+        - article [ref=f1e48]:
+          - heading "Dineout" [level=3] [ref=f1e49]
+          - paragraph [ref=f1e50]: Eat out & Save more
+          - paragraph [ref=f1e51]: UPTO 50% OFF
+          - img "Restaurant dining" [ref=f1e55]
+  - main [ref=f1e56]:
+    - generic [ref=f1e57]:
+      - generic [ref=f1e58]:
+        - heading "Order our best food options" [level=2] [ref=f1e59]
+        - generic [ref=f1e60]:
+          - button "Previous" [ref=f1e61] [cursor=pointer]
+          - button "Next" [ref=f1e64] [cursor=pointer]
+      - generic [ref=f1e67]:
+        - link "North Indian North Indian" [ref=f1e68] [cursor=pointer]:
+          - /url: "#"
+          - img "North Indian" [ref=f1e69]
+          - generic [ref=f1e70]: North Indian
+        - link "Pizza Pizza" [ref=f1e71] [cursor=pointer]:
+          - /url: "#"
+          - img "Pizza" [ref=f1e72]
+          - generic [ref=f1e73]: Pizza
+        - link "Burger Burger" [ref=f1e74] [cursor=pointer]:
+          - /url: "#"
+          - img "Burger" [ref=f1e75]
+          - generic [ref=f1e76]: Burger
+        - link "Cake Cake" [ref=f1e77] [cursor=pointer]:
+          - /url: "#"
+          - img "Cake" [ref=f1e78]
+          - generic [ref=f1e79]: Cake
+        - link "Biryani Biryani" [ref=f1e80] [cursor=pointer]:
+          - /url: "#"
+          - img "Biryani" [ref=f1e81]
+          - generic [ref=f1e82]: Biryani
+        - link "Tandoori Tandoori" [ref=f1e83] [cursor=pointer]:
+          - /url: "#"
+          - img "Tandoori" [ref=f1e84]
+          - generic [ref=f1e85]: Tandoori
+        - link "Desserts Desserts" [ref=f1e86] [cursor=pointer]:
+          - /url: "#"
+          - img "Desserts" [ref=f1e87]
+          - generic [ref=f1e88]: Desserts
+        - link "South Indian South Indian" [ref=f1e89] [cursor=pointer]:
+          - /url: "#"
+          - img "South Indian" [ref=f1e90]
+          - generic [ref=f1e91]: South Indian
+        - link "Paratha Paratha" [ref=f1e92] [cursor=pointer]:
+          - /url: "#"
+          - img "Paratha" [ref=f1e93]
+          - generic [ref=f1e94]: Paratha
+        - link "Pasta Pasta" [ref=f1e95] [cursor=pointer]:
+          - /url: "#"
+          - img "Pasta" [ref=f1e96]
+          - generic [ref=f1e97]: Pasta
+        - link "Ice Cream Ice Cream" [ref=f1e98] [cursor=pointer]:
+          - /url: "#"
+          - img "Ice Cream" [ref=f1e99]
+          - generic [ref=f1e100]: Ice Cream
+        - link "Pastry Pastry" [ref=f1e101] [cursor=pointer]:
+          - /url: "#"
+          - img "Pastry" [ref=f1e102]
+          - generic [ref=f1e103]: Pastry
+        - link "Idli Idli" [ref=f1e104] [cursor=pointer]:
+          - /url: "#"
+          - img "Idli" [ref=f1e105]
+          - generic [ref=f1e106]: Idli
+        - link "Coffee Coffee" [ref=f1e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Coffee" [ref=f1e108]
+          - generic [ref=f1e109]: Coffee
+    - generic [ref=f1e110]:
+      - generic [ref=f1e111]:
+        - heading "Shop groceries on Instamart" [level=2] [ref=f1e112]
+        - generic [ref=f1e113]:
+          - button "Previous" [ref=f1e114] [cursor=pointer]
+          - button "Next" [ref=f1e117] [cursor=pointer]
+      - generic [ref=f1e120]:
+        - link [ref=f1e121] [cursor=pointer]:
+          - /url: "#"
+          - img "Fresh Vegetables" [ref=f1e122]
+          - generic [ref=f1e123]: FreshVegetables
+        - link [ref=f1e124] [cursor=pointer]:
+          - /url: "#"
+          - img "Fresh Fruits" [ref=f1e125]
+          - generic [ref=f1e126]: FreshFruits
+        - link [ref=f1e127] [cursor=pointer]:
+          - /url: "#"
+          - img "Dairy, Bread and Eggs" [ref=f1e128]
+          - generic [ref=f1e129]: Dairy, Breadand Eggs
+        - link [ref=f1e130] [cursor=pointer]:
+          - /url: "#"
+          - img "Atta, Rice and Dals" [ref=f1e131]
+          - generic [ref=f1e132]: Atta, Riceand Dals
+        - link [ref=f1e133] [cursor=pointer]:
+          - /url: "#"
+          - img "Masalas and Dry Fruits" [ref=f1e134]
+          - generic [ref=f1e135]: Masalas andDry Fruits
+        - link [ref=f1e136] [cursor=pointer]:
+          - /url: "#"
+          - img "Oils and Ghee" [ref=f1e137]
+          - generic [ref=f1e138]: Oilsand Ghee
+        - link "Munchies Munchies" [ref=f1e139] [cursor=pointer]:
+          - /url: "#"
+          - img "Munchies" [ref=f1e140]
+          - generic [ref=f1e141]: Munchies
+        - link [ref=f1e142] [cursor=pointer]:
+          - /url: "#"
+          - img "Cold Drinks" [ref=f1e143]
+          - generic [ref=f1e144]: ColdDrinks
+        - link [ref=f1e145] [cursor=pointer]:
+          - /url: "#"
+          - img "Personal Care" [ref=f1e146]
+          - generic [ref=f1e147]: PersonalCare
+    - generic [ref=f1e148]:
+      - generic [ref=f1e149]:
+        - heading "Discover best restaurants on Dineout" [level=2] [ref=f1e150]
+        - generic [ref=f1e151]:
+          - button "Previous" [ref=f1e152] [cursor=pointer]
+          - button "Next" [ref=f1e155] [cursor=pointer]
+      - generic [ref=f1e158]:
+        - article [ref=f1e159]:
+          - generic [ref=f1e160]:
+            - img "Balls Monkey" [ref=f1e161]
+            - generic [ref=f1e162]: ★ 4.3
+          - generic [ref=f1e163]:
+            - heading "Balls Monkey" [level=3] [ref=f1e164]
+            - paragraph [ref=f1e165]: Beverages, Momos, Chinese, North Indian, Continental
+            - paragraph [ref=f1e166]: Sector 108, Noida
+            - generic [ref=f1e167]: Flat 50% off on pre-booking
+            - paragraph [ref=f1e170]: Up to 50% off with bank offers
+            - paragraph [ref=f1e171]: Up to 50% off with BANKS
+        - article [ref=f1e172]:
+          - generic [ref=f1e173]:
+            - img "The Yellow Chilli" [ref=f1e174]
+            - generic [ref=f1e175]: ★ 4.2
+          - generic [ref=f1e176]:
+            - heading "The Yellow Chilli" [level=3] [ref=f1e177]
+            - paragraph [ref=f1e178]: North Indian, Chinese, Mughlai, Biryani
+            - paragraph [ref=f1e179]: DLF Mall of India, Noida
+            - generic [ref=f1e180]: Flat 30% off on pre-booking
+            - paragraph [ref=f1e183]: Up to 30% off with bank offers
+            - paragraph [ref=f1e184]: Up to 20% off with BANKS
+        - article [ref=f1e185]:
+          - generic [ref=f1e186]:
+            - img "Barbeque Nation" [ref=f1e187]
+            - generic [ref=f1e188]: ★ 4.4
+          - generic [ref=f1e189]:
+            - heading "Barbeque Nation" [level=3] [ref=f1e190]
+            - paragraph [ref=f1e191]: North Indian, Barbecue, Buffet, Mughlai
+            - paragraph [ref=f1e192]: Gardens Galleria, Noida
+            - generic [ref=f1e193]: Flat 15% off on pre-booking
+            - paragraph [ref=f1e196]: Up to 15% off with bank offers
+            - paragraph [ref=f1e197]: Up to 10% off with BANKS
+        - article [ref=f1e198]:
+          - generic [ref=f1e199]:
+            - img "Giani's" [ref=f1e200]
+            - generic [ref=f1e201]: ★ 4.5
+          - generic [ref=f1e202]:
+            - heading "Giani's" [level=3] [ref=f1e203]
+            - paragraph [ref=f1e204]: Ice Cream, Desserts, Beverages, North Indian
+            - paragraph [ref=f1e205]: Sector 18, Noida
+            - generic [ref=f1e206]: Flat 30% off on pre-booking
+            - paragraph [ref=f1e209]: Up to 30% off with bank offers
+            - paragraph [ref=f1e210]: Up to 10% off with BANKS
+    - generic [ref=f1e212]:
+      - generic [ref=f1e213]:
+        - generic [ref=f1e214]: Swiggy
+        - heading "Get the Swiggy App now!" [level=2] [ref=f1e218]
+        - paragraph [ref=f1e219]: For best offers and discounts checkout specially for you.
+      - generic [ref=f1e220]: Scan to download
+    - generic [ref=f1e314]:
+      - heading "Cities with food delivery" [level=2] [ref=f1e315]
+      - generic [ref=f1e316]:
+        - link "Order food online in Bangalore" [ref=f1e317] [cursor=pointer]:
+          - /url: "#"
+        - link "Order food online in Gurgaon" [ref=f1e318] [cursor=pointer]:
+          - /url: "#"
+        - link "Order food online in Hyderabad" [ref=f1e319] [cursor=pointer]:
+          - /url: "#"
+        - link "Order food online in Delhi" [ref=f1e320] [cursor=pointer]:
+          - /url: "#"
+        - link "Order food online in Mumbai" [ref=f1e321] [cursor=pointer]:
+          - /url: "#"
+        - link "Order food online in Pune" [ref=f1e322] [cursor=pointer]:
+          - /url: "#"
+        - link "Order food online in Kolkata" [ref=f1e323] [cursor=pointer]:
+          - /url: "#"
+        - link "Order food online in Chennai" [ref=f1e324] [cursor=pointer]:
+          - /url: "#"
+        - link "Order food online in Ahmedabad" [ref=f1e325] [cursor=pointer]:
+          - /url: "#"
+        - link "Order food online in Chandigarh" [ref=f1e326] [cursor=pointer]:
+          - /url: "#"
+        - link "Order food online in Jaipur" [ref=f1e327] [cursor=pointer]:
+          - /url: "#"
+        - link "Show More" [ref=f1e328] [cursor=pointer]:
+          - /url: "#"
+  - contentinfo [ref=f1e331]:
+    - generic [ref=f1e332]:
+      - generic [ref=f1e333]:
+        - link "Swiggy" [ref=f1e334] [cursor=pointer]:
+          - /url: "#"
+        - paragraph [ref=f1e339]: © 2025 Swiggy limited
+      - generic [ref=f1e340]:
+        - heading "Company" [level=4] [ref=f1e341]
+        - link "About Us" [ref=f1e342] [cursor=pointer]:
+          - /url: "#"
+        - link "Swiggy Corporate" [ref=f1e343] [cursor=pointer]:
+          - /url: "#"
+        - link "Careers" [ref=f1e344] [cursor=pointer]:
+          - /url: "#"
+        - link "Team" [ref=f1e345] [cursor=pointer]:
+          - /url: "#"
+        - link "Swiggy One" [ref=f1e346] [cursor=pointer]:
+          - /url: "#"
+        - link "Swiggy Instamart" [ref=f1e347] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f1e348]:
+        - heading "Contact us" [level=4] [ref=f1e349]
+        - link "Help & Support" [ref=f1e350] [cursor=pointer]:
+          - /url: "#"
+        - link "Partner With Us" [ref=f1e351] [cursor=pointer]:
+          - /url: "#"
+        - link "Ride With Us" [ref=f1e352] [cursor=pointer]:
+          - /url: "#"
+        - heading "Legal" [level=4] [ref=f1e353]
+        - link "Terms & Conditions" [ref=f1e354] [cursor=pointer]:
+          - /url: "#"
+        - link "Cookie Policy" [ref=f1e355] [cursor=pointer]:
+          - /url: "#"
+        - link "Privacy Policy" [ref=f1e356] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f1e357]:
+        - heading "Available in" [level=4] [ref=f1e358]
+        - link "Bangalore" [ref=f1e359] [cursor=pointer]:
+          - /url: "#"
+        - link "Gurgaon" [ref=f1e360] [cursor=pointer]:
+          - /url: "#"
+        - link "Hyderabad" [ref=f1e361] [cursor=pointer]:
+          - /url: "#"
+        - link "Delhi" [ref=f1e362] [cursor=pointer]:
+          - /url: "#"
+        - link "Mumbai" [ref=f1e363] [cursor=pointer]:
+          - /url: "#"
+        - link "Pune" [ref=f1e364] [cursor=pointer]:
+          - /url: "#"
+        - link "all cities" [ref=f1e365] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f1e368]:
+        - heading "Life at Swiggy" [level=4] [ref=f1e369]
+        - link "Explore With Swiggy" [ref=f1e370] [cursor=pointer]:
+          - /url: "#"
+        - link "Swiggy News" [ref=f1e371] [cursor=pointer]:
+          - /url: "#"
+        - link "Snackdown" [ref=f1e372] [cursor=pointer]:
+          - /url: "#"
+        - heading "Social Links" [level=4] [ref=f1e373]
+        - generic [ref=f1e374]:
+          - link "Instagram" [ref=f1e375] [cursor=pointer]:
+            - /url: "#"
+          - link "Facebook" [ref=f1e380] [cursor=pointer]:
+            - /url: "#"
+          - link "X" [ref=f1e383] [cursor=pointer]:
+            - /url: "#"
+          - link "LinkedIn" [ref=f1e386] [cursor=pointer]:
+            - /url: "#"
+    - generic [ref=f1e390]:
+      - generic [ref=f1e391]: For better experience, download the Swiggy app now
+      - generic [ref=f1e392]:
+        - link "Download on the App Store" [ref=f1e393] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f1e396]:
+            - generic [ref=f1e397]: Download on the
+            - text: App Store
+        - link "Get it on Google Play" [ref=f1e398] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=f1e404]:
+            - generic [ref=f1e405]: GET IT ON
+            - text: Google Play
